@@ -8,28 +8,32 @@ You first need to *fork* the exercise git repository.
 
 Once that's done, you can clone your repository like so:
 
-    # repo-url can start by ssh or https
-    # your login must appear somewere in the url
-    git clone repo-url
+```sh
+# repo-url can start by ssh or https
+# your login must appear somewere in the url
+git clone repo-url
 
-    # then you can cd in your repository
-    cd repo-name
+# then you can cd in your repository
+cd repo-name
+```
 
 then create a JavaScript file named `index.js` in which you will write your code.
 
-    # To test your current solution you need to install the dependencies :
-    npm install
+```sh
+# To test your current solution you need to install the dependencies :
+npm install
 
-    # Then you can run the tests
-    npm test
+# Then you can run the tests
+npm test
 
-    # The old wisdom says: Test often, Test early
+# The old wisdom says: Test often, Test early
 
-    # To submit your progress
-    git add index.js # add the file
-    git commit -m "commit message" # name your changes
-    git push -u origin master# save them on the server
-    # You only need -u origin master the first time just `git push` after that
+# To submit your progress
+git add index.js # add the file
+git commit -m "commit message" # name your changes
+git push -u origin master# save them on the server
+# You only need -u origin master the first time just `git push` after that
+```
 
 But if you are stuck pause and think about your problem.
 Don't try to find the solution *by chance* that always end up taking more time.
