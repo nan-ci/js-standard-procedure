@@ -2,7 +2,7 @@
 
 You first need to *fork* the exercise git repository.
 
-![forking](https://raw.githubusercontent.com/nan-ci/js-standard-procedure/master/fork.png)
+![forking](https://raw.githubusercontent.com/nan-ci/js-standard-procedure/master/fork.png?sdsd)
 
 > :warning: Ensure you are on the root directory (path should start with: **nan-ci/**)
 
