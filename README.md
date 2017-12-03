@@ -1,5 +1,4 @@
-## Standard Procedure
-
+# Standard Procedure
 You first need to *fork* the exercise git repository.
 
 [![forking](https://raw.githubusercontent.com/nan-ci/js-standard-procedure/master/fork.png)](https://help.github.com/articles/fork-a-repo/#platform-linux)
